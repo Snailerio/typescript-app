@@ -15,11 +15,6 @@ function App() {
         <ProductTile loading={true} text="tomato" bg="red" h="300px" />
         <ProductTile loading={false} text="tomato" />
         <ProductTile loading={false} text="tomato" />
-        <ProductTile loading={false} text="tomato" />
-        <ProductTile loading={false} text="tomato" />
-        <ProductTile loading={false} text="tomato" />
-        <ProductTile loading={false} text="tomato" />
-        <ProductTile loading={false} text="tomato" />
         <a
           className="App-link"
           href="https://reactjs.org"
