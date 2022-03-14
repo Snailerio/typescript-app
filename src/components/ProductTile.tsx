@@ -15,7 +15,7 @@ function ProductTile(props: Props) {
 
       <Center
         bg={props.bg || "white"}
-        h={props.h || "200px"}
+        h={props.h || "100px"}
         w="100%"
         color="black"
       >
